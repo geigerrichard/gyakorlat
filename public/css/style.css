@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: #635884;
+}
+
+.header{
+    text-align: center;
+    background-color: #FF7B5A;
+    padding: 20px;
+}
+
+h1{
+    border-radius: 12px;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.buttons{
+    text-align: center;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #FFC147;
+}
+
+a{
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    background-color: blue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+li{
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+    list-style-type: none;
+    color: #F6E332;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.lawngreen{
+    color: lawngreen;
+}

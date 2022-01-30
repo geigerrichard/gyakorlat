@@ -1,0 +1,2 @@
+- az adatbázist importálni kell a beüzemelés előtt, a kiexportált .sql csatolva
+- importálást követően az app/config/config.php-ban megváltoztatandó a DB-hez tartozó konstansok értéke
